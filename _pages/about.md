@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-+ I am an undergraduate student at UCLA
++ I am an undergraduate student at UCLA.
 + Lorem ipsum.
